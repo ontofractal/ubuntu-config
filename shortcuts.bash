@@ -7,3 +7,5 @@ gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-left "['<Ctrl><
 gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-right "['<Ctrl><Alt><Shift>l']"
 gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-up "['<Ctrl><Alt><Shift>k']"
 gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-down "['<Ctrl><Alt><Shift>j']"
+
+gsettings set org.gnome.desktop.interface enable-animations false
